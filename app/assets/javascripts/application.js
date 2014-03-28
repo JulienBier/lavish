@@ -12,6 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap-3.0.0
-//= require less-1.4.2
+//= require bootstrap-3.1.1
+//= require less-1.7.0
 //= require lavish

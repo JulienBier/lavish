@@ -16,7 +16,7 @@ class StylesController < ApplicationController
 
     bootstrap
 
-    render layout: "bootstrap-3.0.0"
+    render layout: "bootstrap-3.1.1"
   end
 
   def customize
